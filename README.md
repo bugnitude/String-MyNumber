@@ -10,8 +10,8 @@ if string.isMyNumber {
 ```
 
 # Requirements
-- Xcode 8.0 and later
-- Swift 3.0 and later
+- Swift 4.0+
+- Xcode 9.0+
 
 # Installation
 Add String+MyNumber.swift to your project.
